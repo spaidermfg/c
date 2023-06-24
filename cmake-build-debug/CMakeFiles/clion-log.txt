@@ -1,0 +1,21 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/mac/CLionProjects/CPrimePlus
+    -- src/char_array.c will be compiled to bin/char_array
+    -- src/fathm_ft.c will be compiled to bin/fathm_ft
+    -- src/main.c will be compiled to bin/main
+    -- src/major.c will be compiled to bin/major
+    -- src/pizza.c will be compiled to bin/pizza
+    -- src/printf1.c will be compiled to bin/printf1
+    -- src/project.c will be compiled to bin/project
+    -- src/radix_turn.c will be compiled to bin/radix_turn
+    -- src/salary_turn.c will be compiled to bin/salary_turn
+    -- src/shoes1.c will be compiled to bin/shoes1
+    -- src/test_name.c will be compiled to bin/test_name
+    -- src/test_three.c will be compiled to bin/test_three
+    -- src/two_func.c will be compiled to bin/two_func
+-- Configuring done
+CMake Error: Cannot determine link language for target "project".
+CMake Error: CMake can not determine linker language for target: project
+CMake Error: Cannot determine link language for target "major".
+CMake Error: CMake can not determine linker language for target: major
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

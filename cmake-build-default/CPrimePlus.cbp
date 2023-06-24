@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPrimePlus"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="char_array">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/char_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 char_array"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="char_array/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/char_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 char_array/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fathm_ft">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/fathm_ft" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 fathm_ft"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fathm_ft/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/fathm_ft" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 fathm_ft/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="major">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/major" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 major"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="major/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/major" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 major/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pizza">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/pizza" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 pizza"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pizza/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/pizza" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 pizza/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="printf1">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/printf1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 printf1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="printf1/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/printf1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 printf1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 project"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 project/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="radix_turn">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/radix_turn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 radix_turn"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="radix_turn/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/radix_turn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 radix_turn/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="salary_turn">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/salary_turn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 salary_turn"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="salary_turn/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/salary_turn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 salary_turn/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shoes1">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/shoes1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 shoes1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shoes1/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/shoes1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 shoes1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_name">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/test_name" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 test_name"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_name/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/test_name" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 test_name/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_three">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/test_three" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 test_three"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_three/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/test_three" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 test_three/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two_func">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/two_func" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 two_func"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two_func/fast">
+				<Option output="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/two_func" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 two_func/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mac/CLionProjects/CPrimePlus/cmake-build-default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/char_array.c">
+			<Option target="char_array"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/fathm_ft.c">
+			<Option target="fathm_ft"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/main.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/major.cpp">
+			<Option target="major"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/pizza.c">
+			<Option target="pizza"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/printf1.c">
+			<Option target="printf1"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/project.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/radix_turn.c">
+			<Option target="radix_turn"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/salary_turn.c">
+			<Option target="salary_turn"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/shoes1.c">
+			<Option target="shoes1"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/test_name.c">
+			<Option target="test_name"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/test_three.c">
+			<Option target="test_three"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/two_func.c">
+			<Option target="two_func"/>
+		</Unit>
+		<Unit filename="/Users/mac/CLionProjects/CPrimePlus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
