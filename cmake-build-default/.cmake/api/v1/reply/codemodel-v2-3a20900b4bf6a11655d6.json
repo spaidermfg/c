@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPrimePlus",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "char_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-char_array-1720e2fa73dd086f9dcb.json",
+					"name" : "char_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fathm_ft::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fathm_ft-614c2f01076cf629ad6a.json",
+					"name" : "fathm_ft",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-5a138adb62ef44325870.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "major::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-major-1ea6cea1f59ecb014966.json",
+					"name" : "major",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pizza::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pizza-aa9e7116b4261bc3391e.json",
+					"name" : "pizza",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "printf1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-printf1-c95f6800474976d906a7.json",
+					"name" : "printf1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project-3a098dd499cfaca10e70.json",
+					"name" : "project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "radix_turn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-radix_turn-44f6ec36205842380e48.json",
+					"name" : "radix_turn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "salary_turn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-salary_turn-b6437e99bca62e8feba9.json",
+					"name" : "salary_turn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shoes1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shoes1-0e9da9b80e06d5b33201.json",
+					"name" : "shoes1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_name::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_name-5099259d63fe5162751c.json",
+					"name" : "test_name",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_three::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_three-e02c1e7e5a6878ae903f.json",
+					"name" : "test_three",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "two_func::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-two_func-8aaafc9dc2b5df546af9.json",
+					"name" : "two_func",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mac/CLionProjects/CPrimePlus/cmake-build-default",
+		"source" : "/Users/mac/CLionProjects/CPrimePlus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

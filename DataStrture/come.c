@@ -4,5 +4,5 @@
 
 #include <stdio.h>
 void main(){
-    pringf("helloworld");
+    printf("helloworld");
 }
