@@ -20,20 +20,20 @@
 #define WHITE (RED | GREEN | BLUE)
 
 /* 符号常量 */
-#define OPAQUE 0x1
-#define FILL_BLUE 0x8
-#define FILL_GREEN 0x4
-#define FILL_RED 0x8
-#define FILL_MASK 0xE
-#define BORDER 0x100
-#define BORDER_BLUE 0x800
-#define BORDER_GREEN 0x400
-#define BORDER_RED 0x200
+#define OPAQUE 0x1 //0001
+#define FILL_BLUE 0x8 //1000
+#define FILL_GREEN 0x4 //0100
+#define FILL_RED 0x2 //0010
+#define FILL_MASK 0xE //14: 0001 0100
+#define BORDER 0x100 //0001 0000 0000
+#define BORDER_BLUE 0x800 //1000 0000 0000
+#define BORDER_GREEN 0x400 //0100 0000 0000
+#define BORDER_RED 0x200 //0010 0000 0000
 #define BORDER_MASK 0xE00
 #define B_SOLID 0
-#define B_DOTTED 0x1000
-#define B_DASHED 0x2000
-#define STYLE_MASK 0x3000
+#define B_DOTTED 0x1000 //0001 0000 0000 0000
+#define B_DASHED 0x2000 //0010 0000 0000 0000
+#define STYLE_MASK 0x3000 //0011 0000 0000 0000
 
 const char * colors[8] = {
         "black",
@@ -100,7 +100,7 @@ int main(void) {
     box.us_view |= (FILL_BLUE | FILL_GREEN); /* 重制填充色 */
     box.us_view ^= OPAQUE; /* 切换是否透明的位 */
     box.us_view |= BORDER_RED;
-    box.us_view &=  ~STYLE_MASK;
+    box.us_view &=  ~STYLE_MASK;  //把表示风格的位清零
     box.us_view |= B_DOTTED;
 
     printf("\nModified box after settings:\n");
@@ -138,7 +138,7 @@ void show_settings(const struct box_props * pb)
 void show_settings1(unsigned short us)
 {
     printf("    Box is %s.\n", (us & OPAQUE) == OPAQUE ? "opaque" : "transparent");
-    printf("    The fill color is %s.\n", colors[(us >> 1) & 07]);
+    printf("    The fill color is %s.\n", colors[(us >> 1) & 07]); // 右移运算符
     printf("    Border %s.\n", (us & BORDER) == BORDER ? "shown" : "not shown");
     printf("    The border color is %s.\n", colors[(us >> 9) & 07]);
     printf("    The border style is ");
