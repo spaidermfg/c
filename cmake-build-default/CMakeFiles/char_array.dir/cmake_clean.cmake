@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/char_array.dir/51/led.c.o"
+  "CMakeFiles/char_array.dir/51/led.c.o.d"
   "CMakeFiles/char_array.dir/char_array.c.o"
   "CMakeFiles/char_array.dir/char_array.c.o.d"
   "char_array"

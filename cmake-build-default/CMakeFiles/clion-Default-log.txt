@@ -1,4 +1,4 @@
-/Applications/CLionew.app/Contents/bin/cmake/mac/bin/cmake -G "CodeBlocks - Unix Makefiles" -S /Users/mac/CLionProjects/CPrimePlus -B /Users/mac/CLionProjects/CPrimePlus/cmake-build-default
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -G "CodeBlocks - Unix Makefiles" -S /Users/mac/CLionProjects/CPrimePlus -B /Users/mac/CLionProjects/CPrimePlus/cmake-build-default
     -- src/char_array.c will be compiled to bin/char_array
     -- src/fathm_ft.c will be compiled to bin/fathm_ft
     -- src/main.c will be compiled to bin/main
@@ -12,10 +12,6 @@
     -- src/test_name.c will be compiled to bin/test_name
     -- src/test_three.c will be compiled to bin/test_three
     -- src/two_func.c will be compiled to bin/two_func
--- Configuring done
-CMake Error: Cannot determine link language for target "major".
-CMake Error: CMake can not determine linker language for target: major
-CMake Error: Cannot determine link language for target "project".
-CMake Error: CMake can not determine linker language for target: project
--- Generating done
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/mac/CLionProjects/CPrimePlus/cmake-build-default

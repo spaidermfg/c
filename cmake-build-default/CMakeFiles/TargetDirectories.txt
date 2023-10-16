@@ -1,15 +1,2 @@
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/char_array.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/fathm_ft.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/main.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/major.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/pizza.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/printf1.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/project.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/radix_turn.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/salary_turn.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/shoes1.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/test_name.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/test_three.dir
-/Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/two_func.dir
 /Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/edit_cache.dir
 /Users/mac/CLionProjects/CPrimePlus/cmake-build-default/CMakeFiles/rebuild_cache.dir

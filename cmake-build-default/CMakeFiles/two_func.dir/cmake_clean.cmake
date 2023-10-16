@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/two_func.dir/51/led.c.o"
+  "CMakeFiles/two_func.dir/51/led.c.o.d"
   "CMakeFiles/two_func.dir/two_func.c.o"
   "CMakeFiles/two_func.dir/two_func.c.o.d"
   "two_func"

@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/printf1.dir/51/led.c.o"
+  "CMakeFiles/printf1.dir/51/led.c.o.d"
   "CMakeFiles/printf1.dir/printf1.c.o"
   "CMakeFiles/printf1.dir/printf1.c.o.d"
   "printf1"
